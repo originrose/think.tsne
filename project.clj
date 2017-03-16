@@ -1,4 +1,4 @@
-(defproject think.topic/think.tsne "0.1.0-SNAPSHOT"
+(defproject think.topic/think.tsne "0.1.0"
   :description "Simple bindings to the TSNE algorithm of dimensionality reduction."
   :url "http://github.com/thinktopic/think.tsne"
   :license {:name "Eclipse Public License"
