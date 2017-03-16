@@ -1,10 +1,11 @@
 # think.tsne
 
-A Clojure library designed to ... well, that part is up to you.
+Thin clojure wrapper on top of:
+https://github.com/lejon/T-SNE-Java
 
 ## Usage
 
-FIXME
+[Unit Test](test/think/tsne/core_test.clj)
 
 ## License
 

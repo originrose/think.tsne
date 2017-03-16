@@ -1,0 +1,3 @@
+[submodule "T-SNE-Java"]
+	path = T-SNE-Java
+	url = https://github.com/lejon/T-SNE-Java
