@@ -5,6 +5,16 @@ https://github.com/lejon/T-SNE-Java
 
 ## Usage
 
+Build:
+
+```
+git submodule init
+git submodule pull
+lein test
+```
+
+Example:
+
 [Unit Test](test/think/tsne/core_test.clj)
 
 ## License
