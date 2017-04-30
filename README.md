@@ -5,7 +5,12 @@ https://github.com/lejon/T-SNE-Java
 
 ## Usage
 
-Build:
+In your project, using lein:
+```
+[thinktopic/think.tsne "0.1.1"]
+```
+
+Build this repo:
 
 ```
 git submodule init
